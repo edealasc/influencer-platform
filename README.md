@@ -17,12 +17,4 @@ This repository contains the frontend for **InfluEthiopia**  designed to connect
 - [Next.js](https://nextjs.org/) – React framework for server-rendered and statically generated pages.
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework for rapid UI development.
 
-## 🚀 Getting Started
 
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/yourusername/bizfluence.git
-cd bizfluence
-npm install
-npm run dev
